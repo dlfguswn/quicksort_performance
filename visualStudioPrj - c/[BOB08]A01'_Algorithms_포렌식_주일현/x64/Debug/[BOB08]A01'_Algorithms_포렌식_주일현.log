@@ -1,0 +1,16 @@
+﻿빌드 시작: 2019-12-28 오전 1:07:46
+     1>2 노드의 "C:\Users\dlfgu\OneDrive\문서\visual studio 2012\Projects\[BOB08]A01'_Algorithms_포렌식_주일현\[BOB08]A01'_Algorithms_포렌식_주일현\[BOB08]A01'_Algorithms_포렌식_주일현.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dlfgu\onedrive\문서\visual studio 2012\Projects\[BOB08]A01'_Algorithms_포렌식_주일현\x64\Debug\[BOB08]A01'_Algorithms_포렌식_주일현.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\dlfgu\onedrive\문서\visual studio 2012\Projects\[BOB08]A01'_Algorithms_포렌식_주일현\x64\Debug\[BOB08]A01'_Algorithms_포렌식_주일현.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dlfgu\onedrive\문서\visual studio 2012\Projects\[BOB08]A01'_Algorithms_포렌식_주일현\x64\Debug\[BOB08]A01'_Algorithms_포렌식_주일현.lib" /MACHINE:X64 x64\Debug\bublesort.obj
+         x64\Debug\functions.obj
+         x64\Debug\main.obj
+         x64\Debug\quicksort.obj
+         [BOB08]A01'_Algorithms_포렌식_주일현.vcxproj -> C:\Users\dlfgu\onedrive\문서\visual studio 2012\Projects\[BOB08]A01'_Algorithms_포렌식_주일현\x64\Debug\[BOB08]A01'_Algorithms_포렌식_주일현.exe
+     1>"C:\Users\dlfgu\OneDrive\문서\visual studio 2012\Projects\[BOB08]A01'_Algorithms_포렌식_주일현\[BOB08]A01'_Algorithms_포렌식_주일현\[BOB08]A01'_Algorithms_포렌식_주일현.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.56

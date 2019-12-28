@@ -1,0 +1,13 @@
+﻿빌드 시작: 2019-12-24 오후 1:29:12
+     1>2 노드의 "c:\Users\dlfgu\OneDrive\문서\visual studio 2012\Projects\[BOB08]A01'_Algorithms_포렌식_주일현\[BOB08]A01'_Algorithms_포렌식_주일현\[BOB08]A01'_Algorithms_포렌식_주일현.vcxproj" 프로젝트(Build 대상)입니다.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\dlfgu\onedrive\문서\visual studio 2012\Projects\[BOB08]A01'_Algorithms_포렌식_주일현\Debug\[BOB08]A01'_Algorithms_포렌식_주일현.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\dlfgu\onedrive\문서\visual studio 2012\Projects\[BOB08]A01'_Algorithms_포렌식_주일현\Debug\[BOB08]A01'_Algorithms_포렌식_주일현.pdb" /SUBSYSTEM:CONSOLE /HEAP:"1,073,741,824‬","1,073,741,824‬" /STACK:"1,073,741,824‬","1,073,741,824‬" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\dlfgu\onedrive\문서\visual studio 2012\Projects\[BOB08]A01'_Algorithms_포렌식_주일현\Debug\[BOB08]A01'_Algorithms_포렌식_주일현.lib" /MACHINE:X86 Debug\bublesort.obj
+         Debug\functions.obj
+         Debug\main.obj
+         Debug\quicksort.obj
+     1>LINK : fatal error LNK1229: 커밋 크기가 '/HEAP'에 있는 예약 크기보다 큽니다.
+     1>"c:\Users\dlfgu\OneDrive\문서\visual studio 2012\Projects\[BOB08]A01'_Algorithms_포렌식_주일현\[BOB08]A01'_Algorithms_포렌식_주일현\[BOB08]A01'_Algorithms_포렌식_주일현.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.16
